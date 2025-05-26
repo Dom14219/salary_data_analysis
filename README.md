@@ -1,5 +1,11 @@
 # Salary Data Analysis Dashboard
 
+## Data Source
+
+The original dataset was sourced from [Kaggle: Salary Data](https://www.kaggle.com/datasets/mohithsairamreddy/salary-data).
+-Salary_Data.csv is the original file
+-Salary_Data_copy.csv is the cleaned version I used for this project
+
 This project analyzes salary data across various factors like education, job title, years of experience, age, and gender. The Excel dashboard features multiple PivotTables and charts that highlight trends, outliers, and top earners.
 
 ## Key Insights
